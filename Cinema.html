@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/JSclass.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+    <h1>Cinema Listings</h1>
+
+    <h1>Top 10 list of films available to watch!</h1>
+
+    <ul>
+        <li class="list_item"><p>Avengers</p></li>
+        <li class="list_item"><p>Iron Man</p></li>
+        <li class="list_item"><p>Thor</p></li>
+        <li class="list_item"><p>Captain Marvel</p></li>
+        <li class="list_item"><p>Captain America</p></li>
+        <li class="list_item"><p>Guardians of the Galaxy</p></li>
+        <li class="list_item"><p>Hulk</p></li>
+        <li class="list_item"><p>Black Widow</p></li>
+        <li class="list_item"><p>Ant Man</p></li>
+        <li class="list_item"><p>Fury</p></li>
+
+    </ul>
+
+    <button onclick="colours()">Click Me - films that aren't available will be in red</button>
+
+
+<script>
+    document.querySelector("h1").style.backgroundColor="Grey";
+
+    
+
+    function colours(){
+        var x, i;
+
+        x = document.querySelectorAll(".list_item");
+
+        for(i=0; i < 3; i++){
+            x[i].style.backgroundColor = "red";
+        }
+    }
+    
+</script>
+
+
+</body>
+</html>
+
+
+
+
+
+
+
+
+     <!-- function listFunc(){
+         var x, i;
+
+         x = document.querySelectorAll(".list_item");
+         for(i=0; i< x.length; i++){
+             x[i].style.backgroundColor="#20b2aa";
+         }
+
+
+
+     }  -->
