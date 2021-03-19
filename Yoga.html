@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link href="css/yogastyle.css" rel="stylesheet" type="text/css"> 
+</head>
+<body>
+ 
+<h1>Yoga on Us</h1>
+<b id= "bold"> Welcome to Yoga on Us, an adventure in finding the new relaxed you!</b>
+<p>We have 3 teachers who teach 3 differnt kinds of Yoga. There is Josephine who specialises in Ashtanga which is a complex form of Yoga and not for the faint hearted. Then we have Gerald who has 10 years experience in the Yin form, a very relaxed and peaceful approach to Yoga. Finally we have Chloe who teaches Hatha Yoga, a variation of complex and relaxed moves.</p>
+<p>Come join us for a enjoyable, calm session that you will feel the benefits of for days!!</p>
+
+
+<h3>Book your session now</h3>
+
+<p id="dates"></p>
+<p id="times"></p>
+
+<script>
+     var YogaDate = [" Monday"," Tuesday"," Wednesday"];
+     var YogaTime = ['12.00pm - Ashtanga' , ' 1.00pm - Yin' , ' 10.00 - Hatha'];
+
+     document.getElementById("bold").style.color = "blue";
+
+
+    document.getElementById("dates").innerHTML = YogaDate;
+    document.getElementById("times").innerHTML = YogaTime;
+    document.getElementById("dates").style.color = "green";
+    document.getElementById("times").style.color = "orange";
+    
+
+</script>
+
+
+</body>
+</html>
