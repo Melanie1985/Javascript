@@ -48,3 +48,15 @@
 - SUDO CODE - See project file for sudo code
 - CHALLENGES FACED - Again I was quite confident writing HTML and CSS and was interested to see how this querySelectorAll would work. 
 - HOW I OVERCAME THIS CHALLENGE - Using the slides from our session I could see how this would be useful on a webpage.
+
+- Project No 6 - Contact Page
+- BRIEF - On your contact form page, create a contact form if you haven’t done so already using HTML and CSS and add in some Cyber Security parameters to each field.
+Criteria:
+• Create an external JavaScript file and link to your HTML page.
+• For each field the characters must be between x and y in length.
+• Use CSS to style it and add design
+• For an extra challenge try to prevent special characters from being included in your form and set other criteria – this is not essential.
+- USING HTML, CSS & JAVASCRIPT IN VISUAL STUDIO CODE
+- SUDO CODE - See project file for sudo code
+- CHALLENGES FACED - I already had my contact form up and running but struggled to get any of the security for my form working. 
+- HOW I OVERCAME THIS CHALLENGE - Unfortunately I ran into my old friend 'the syntax error' and after hours of searching for a reason why my form wasn't working the way I wanted to, I cracked it. Persistence paid off!!
