@@ -34,3 +34,11 @@
               #if no == terminate program
 - CHALLENGES FACED - Although I had used the length function before in python I did wonder how I would get another item added to my stock list.
 - HOW I OVERCAME THIS CHALLENGE - I did some research on this and found the function called push, which was very useful in this code. After working through some of my issues with my tutor, I was very happy with my code.
+
+- Project No 4 - Yoga Page
+- BRIEF - Create a basic welcome page for a Yoga Centre using HTML and CSS. On the web page, include the yoga teacher and a description of the yoga lesson. There are 3 yoga teachers and they teach Ashtanga, Yin and Hatha yoga. Use getElementByid() to add in the day and times of each yoga class. Use getElementByid() to make the day text one colour and the time another colour.
+- USING HTML, CSS & JAVASCRIPT IN VISUAL STUDIO CODE
+- SUDO CODE - See project file for sudo code
+- CHALLENGES FACED - I was pretty confident writing HTML and CSS but it was the first time I had come across getElementByid function. 
+- HOW I OVERCAME THIS CHALLENGE - I read up on this from the slides in our lesson and soon started to grasp the whole concept. It was fun to see how easy it was to change different elements on the web page.
+
