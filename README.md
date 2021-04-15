@@ -11,3 +11,26 @@
               #Calling my functions
 - CHALLENGES FACED - I wondered how on earth I would do this one as I was unsure how to put the conversion into practice using Javascript
 - HOW I OVERCAME THIS CHALLENGE - I did try a few different ways of running this code but the simplest way was the way I finally settled on. 
+
+
+- Project No 2 - For loop
+- BRIEF - Write a JavaScript FOR loop that will iterate from 0 to 15. For each iteration, it will check if the current number is odd or even, and display a message to the screen: Sample Output: '0 is even', '1 is odd', '2 is even'.
+- USING JAVASCRIPT IN VISUAL STUDIO CODE
+- SUDO CODE - 
+- CHALLENGES FACED - I wondered how on earth I would do this one as I was unsure how to put the conversion into practice using Javascript
+- HOW I OVERCAME THIS CHALLENGE - I did try a few different ways of running this code but the simplest way was the way I finally settled on. 
+
+- Project No 3 - Stock List
+- BRIEF - Write a function that takes in a list of stock at a shop. It will ask the customer what they’re looking for, and if it’s in stock then it will return “[your item] is currently in stock”.If the item is not in stock then it will return “[your item] is not in stock.” And will ask the customer if they want to order the item. If yes, then the item will get added to stock list. Print out the new list to check. If no, then the program will terminate with a message.
+- USING JAVASCRIPT IN VISUAL STUDIO CODE
+- SUDO CODE - #Creating a list of stock
+              #ask user what they are looking for prompt
+              #create a function and name it
+              #create a for loop (declare variable (i for index) use length to go through the list using the increment)
+              #if instock - then in stock - user === stocklist[i] - will print out the actual list of names in my stock list
+              #if user is not equal to the stocklist items then print out message
+              #out of stock - do they want to order
+              #if yes == add to list - use stockList (push) user has stored variable for name of added item
+              #if no == terminate program
+- CHALLENGES FACED - Although I had used the length function before in python I did wonder how I would get another item added to my stock list.
+- HOW I OVERCAME THIS CHALLENGE - I did some research on this and found the function called push, which was very useful in this code. After working through some of my issues with my tutor, I was very happy with my code.
