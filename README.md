@@ -42,3 +42,9 @@
 - CHALLENGES FACED - I was pretty confident writing HTML and CSS but it was the first time I had come across getElementByid function. 
 - HOW I OVERCAME THIS CHALLENGE - I read up on this from the slides in our lesson and soon started to grasp the whole concept. It was fun to see how easy it was to change different elements on the web page.
 
+- Project No 5 - Cinema Page
+- BRIEF - Create a list of 10 films for a cinema page. The first three films are fully booked. To show this the cinema adds a red background colour to the films. Use querySelectorAll() to do this. In order for the user to see which films are available they have to click a button. You will have to specify this on your website.
+- USING HTML, CSS & JAVASCRIPT IN VISUAL STUDIO CODE
+- SUDO CODE - See project file for sudo code
+- CHALLENGES FACED - Again I was quite confident writing HTML and CSS and was interested to see how this querySelectorAll would work. 
+- HOW I OVERCAME THIS CHALLENGE - Using the slides from our session I could see how this would be useful on a webpage.
